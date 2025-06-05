@@ -7,7 +7,7 @@ const AppPreview = () => {
         {/* App screenshot */}
         <div className="rounded-lg overflow-hidden shadow-2xl">
           <img
-            src="/src/assets/image.png"
+            src="https://www.inside.gru.br/images/linkus-dashboard.jpg"
             alt="Yeastar Linkus Interface"
             className="w-full h-auto max-w-[800px]"
           />
