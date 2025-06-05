@@ -1,0 +1,5 @@
+Coloque as seguintes imagens nesta pasta:
+- logo.png (Logo da InVoip)
+- yeastar-app.png (Screenshot do app da Yeastar)
+- yeastar-logo.png (Logo da Yeastar)
+- 3cx-logo.png (Logo da 3CX)
